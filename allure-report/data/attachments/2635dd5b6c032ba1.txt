@@ -1,0 +1,4 @@
+Registration Response: { msg: 'User Registered' }
+Login Response: {
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IkF1cm9yZTE3MzQwMzQ2MTQwNDgiLCJlbWFpbCI6IkJ1Zm9yZC5IYXJ0bWFubkBnbWFpbC5jb20xNzM0MDM0NjE0MDQ4Iiwicm9sZSI6Mn0.dxMliVfBlIOIWC4D0kcVptrd_pKGOWbt_M8Ip_9VC2A'
+}

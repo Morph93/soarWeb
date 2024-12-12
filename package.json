@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "allure-playwright": "^2.9.2"
+  },
+  "name": "owasp",
+  "version": "1.0.0",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "@playwright/test": "^1.49.1",
+    "allure-js-commons": "^2.9.2",
+    "dotenv": "^16.3.1",
+    "faker": "^6.6.6",
+    "playwright": "^1.49.1"
+  },
+  "scripts": {
+    "generate-allure-report": "allure serve allure-results"
+  }
+}
